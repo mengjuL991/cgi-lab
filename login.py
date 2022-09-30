@@ -10,7 +10,6 @@ from http.cookies import SimpleCookie
 
 #create simple login form
 # (question 4)
-
 #create login form and set cookie iff login correct
 
 #set up cgi form
